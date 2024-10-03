@@ -1,0 +1,59 @@
+.headerbox{
+    width: 100%;
+}
+.header{
+    margin: auto;
+    text-align: center;
+    font-family: Oswald;
+}
+
+.Drinks{
+    margin: 10px, auto, auto, 10px;
+    height: 200px;
+    display: flex;
+}
+.DrinkName{
+    margin-top: 30px;;
+    font-size: 60px;
+    font-family: Oswald;
+}
+.Status{
+    margin-top: -50px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: Oswald;
+}
+
+.InstructionsBox{
+    width: 60%;
+    font-family: Oswald;
+}
+.ingredients{
+    padding-left: 20px;
+    border-left: 5px solid #363636;
+    width: 40%;
+    font-family: Oswald;
+}
+
+.Image{
+    width: 200px;
+    height: 200px;
+}
+.Body{
+    padding: 50px;
+}
+.Pealkiri{
+    margin-left: 40px;
+}
+.Alakiri{
+    display: flex;
+}
+h1{
+    font-weight: 500;
+}
+.Instructions{
+    font-size: 20px;
+}
+.Koostisosad{
+    font-size: 20px;
+}
